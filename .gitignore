@@ -348,3 +348,8 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+#prevent the uploading of .env so as to protect the Token of the bot
+.env
+
+node_modules
